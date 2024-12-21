@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-Trafficdata = pd.read_csv(r"C:\Users\daaks\Desktop\crime_dataset_india.csv")
+Trafficdata = pd.read_csv(r""File path"")
 print(Trafficdata)
 
 Deployed = Trafficdata['Close_Open']
