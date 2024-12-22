@@ -6,6 +6,7 @@
   3. Jani Shikhar
 
 # OBJECTIVE OF PROJECT:
+
 # TOOLS AND LIBRARY USED:
 Python program was written using Visual Studio Code.
 
