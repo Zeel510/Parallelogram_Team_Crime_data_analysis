@@ -9,7 +9,6 @@
 # TOOLS AND LIBRARY USED:
 Python program was written using Visual Studio Code.
 
-
 Libraries Used: Matplotlib pandas
 # DATA SOURCES:
 Data was taken from kaggle.
