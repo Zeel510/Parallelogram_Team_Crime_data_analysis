@@ -6,7 +6,7 @@
   3. Jani Shikhar
 
 # OBJECTIVE OF PROJECT:
-The project aims to perform a simple analysis and forecasting of crime data 
+The project aims to perform a simple analysis and forecasting of crime data between diffrent cities and diffrent crime.
 # TOOLS AND LIBRARY USED:
 Python program was written using Visual Studio Code.
 
