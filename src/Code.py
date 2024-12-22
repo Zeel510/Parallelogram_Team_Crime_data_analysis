@@ -2,16 +2,16 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 Trafficdata = pd.read_csv(r""File path"")
-print(Trafficdata)
+print(Crimedata)
 
-Deployed = Trafficdata['Close_Open']
+Deployed = Crimedata['Close_Open']
 plt.pie(Deployed,startangle=140) 
 
 plt.title('Crime Data')
 
 plt.show()
 
-plt.scatter(Trafficdata['City'], Trafficdata["Victim Gender"], color='blue', marker="^")
+plt.scatter(Crimedata['City'], Crimedata["Victim Gender"], color='blue', marker="^")
 
 plt.xlabel('Date')
 plt.ylabel('Crime')
@@ -22,7 +22,7 @@ plt.title('Crime Data')
 
 plt.show()
 
-plt.scatter(Trafficdata['Victim Age'], Trafficdata["City"], color='red', marker="x")
+plt.scatter(Crimedata['Victim Age'], Crimedata["City"], color='red', marker="x")
 
 plt.xlabel('Date')
 plt.ylabel('Crime')
