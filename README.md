@@ -19,6 +19,15 @@ Data is already in .csv extension.
  2. Install the required python libraries using pip install -r requirement .txt.
  3. Place the dataset in the specified directory.
  4. Run the python script to visualize the crime data and generate forecast.
+
+# CHALLENGES FACED:
+ 1.Finding a dataset for our project.
+ 
+ 2.How to code and understanding the code implementation of code with in collab.
+ 
+ 3.We were all using Github for the first time, so figuring out how to use it was also a challenge. 
+
+ 
      
 
     
